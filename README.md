@@ -1,4 +1,7 @@
-<h1 align="center">Hi , I'm Yao Mawunyo AMEDEKPEDZI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">I am a fullstack developer at Adkontact in Togo. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</p>
+- Hello Everyone, I'm Mawunyo 👋
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+- 🔭 I’m passionate about programming, interested in backend development with 5 years of experience as a fullstack developer.
+- 🌱 I’m currently enrolled in a Full Stack Software Engineering program at [*ALX*](https://www.alxafrica.com/)
+- 📫 How to reach me:
+   - Email: mawunyo.amedekpedzi@gmail.com
+   - LinkedIn: [Yao Mawunyo AMEDEKPEDZI](https://www.linkedin.com/in/yao-mawunyo-amedekpedzi/)
