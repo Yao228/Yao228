@@ -1,8 +1,5 @@
-- Hello Everyone, I'm Mawunyo 👋
+🇬🇧 <Strong>Software Engineer</Strong><br/>
+Curious and passionate about technology, I enjoy creating solutions that are both robust and user-friendly. With experience in Java, Dart, JavaScript, TypeScript, PHP, SQL, and AWS, I work across backend, frontend, and cloud services. I love clean code, good architecture, and constantly learning new things to improve the way I build software.
 
-- 🔭 A highly motivated and experienced web developer, developing, and deploying full-scale web applications. I am always seeking new challenges and opportunities to expand my knowledge and skills, and I am eager to bring my expertise to your team.
-
-- 🌱 I’m currently enrolled in a Full Stack Software Engineering program at [*ALX*](https://www.alxafrica.com/)
-- 📫 How to reach me:
-   - Email: mawunyo.amedekpedzi@gmail.com
-   - LinkedIn: [Yao Mawunyo AMEDEKPEDZI](https://www.linkedin.com/in/yao-mawunyo-amedekpedzi/)
+🇫🇷 <Strong>Ingénieur Logiciel</Strong><br/>
+Curieux et passionné par la tech, j’aime concevoir des solutions à la fois solides et simples à utiliser. Je travaille avec Java, Dart, JavaScript, TypeScript, PHP, SQL, et AWS, aussi bien côté backend, frontend que cloud. J’accorde beaucoup d’importance à la qualité du code, à l’architecture logicielle et à l’apprentissage continu pour progresser et créer des produits utiles.>
